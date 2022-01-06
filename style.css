@@ -37,12 +37,13 @@ section{
     margin-left: 5%;
 }
 #hero-title{
-    border-left: 3px solid crimson;
-}
-.hero-title{
     font-family: 'Lobster', cursive;
-    margin: 0;
     padding-left: 10px;
+    border-left: 3px solid crimson;
+    line-height: 31px;
+}
+#hero-title .hero-title{
+    margin: 0;
 }
 .btn{
     text-transform: capitalize;
