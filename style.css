@@ -100,3 +100,23 @@ section{
     margin-right: 5%;
     margin-left: 5%;
 }
+/* ------- Community Section Styling ------  */
+#community{
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: 15%;
+}
+#community .one-three img{
+    width: 100%;
+}
+#community .one-three{
+    width: 30%;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+#community .two-three{
+    width: 50%;
+    margin-right: 5%;
+    margin-left: 5%;
+}
