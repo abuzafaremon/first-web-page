@@ -52,7 +52,7 @@ section{
     padding: 10px 20px;
     border-radius: 5px;
 }
-/* ----- Mission Section Style ------ */
+/* ----- Mission Section Styling ------ */
 #mission h1{
     text-align: center;
 }
@@ -79,4 +79,24 @@ section{
 }
 #mission .item3{
     background-color: #ff7a7a46;
+}
+/* ------- Develop Section Styleing -------- */
+#develop{
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 15%;
+}
+#develop .one-three img{
+    width: 100%;
+}
+#develop .one-three{
+    width: 30%;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+#develop .two-three{
+    width: 50%;
+    margin-right: 5%;
+    margin-left: 5%;
 }
