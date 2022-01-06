@@ -38,11 +38,11 @@ section{
 }
 #hero-title{
     border-left: 3px solid crimson;
-    padding-left: 10px;
 }
 .hero-title{
     font-family: 'Lobster', cursive;
     margin: 0;
+    padding-left: 10px;
 }
 .btn{
     text-transform: capitalize;
@@ -154,7 +154,7 @@ section{
     border: 1px solid lightgrey;
     border-radius: 5px;
     outline: none;
-    padding: 5px 15px;
+    padding: 5px 10px;
     font-size: 17px;
     resize: none;
 }
