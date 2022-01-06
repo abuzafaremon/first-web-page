@@ -120,3 +120,41 @@ section{
     margin-right: 5%;
     margin-left: 5%;
 }
+/* ------- Contact Section Styling ---------  */
+#contact .contact-heading{
+    text-align: center;
+}
+#contact .contact-info{
+    background-color: #beade64d;
+    color: #333;
+    width: 45%;
+    padding: 20px;
+}
+#contact .info{
+    margin-bottom: 20px;
+}
+#contact .contact-info .info h4, .info-details{
+    margin: 0;
+}
+#contact .contact-form{
+    width: 55%;
+    padding: 20px;
+    background-color: #8df08044;
+}
+#contact .contact-form .form-group{
+    position: relative;
+    margin-bottom: 10px;
+}
+#contact .contact-form .form-group label{
+    color: #333;
+}
+#contact .contact-form .form-group input,
+#contact .contact-form .form-group textarea{
+    width: 90%;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    outline: none;
+    padding: 5px 15px;
+    font-size: 17px;
+    resize: none;
+}
